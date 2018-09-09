@@ -29,7 +29,7 @@ Email sunynp.engineeringclub@gmail.com for an invite.
 ## Committes
 There are many ways to get involved with club operation. By joining a committee, you have the ability to shape the future of the club while learning valuable skills in a collaborative setting.
 
--Events
--PR
--Website
--Budget and Finance
+* Events
+* PR
+* Website
+* Budget and Finance
